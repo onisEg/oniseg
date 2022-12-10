@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design 
 - 🌱 I’m currently learning JAVASCRIPT 
 - 💞️ I’m looking to internship with any company
-- 📫 You can reach me ...>  <a href="anasabdo704@gmail.com">My 📧 </a>
+- 📫 You can reach me ...>  <a href="anasabdo704@gmail.com">My Email </a>
 
 <!---
 oniseg/oniseg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

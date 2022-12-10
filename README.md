@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <a href="https://app.flowcv.com/resume-feedback/45DZ1HoJBcfg90VWikYym">Anas</a>
 - 👀 I’m interested in Web Design 
 - 🌱 I’m currently learning JAVASCRIPT 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to internship with any company
 - 📫 How to reach me ...
 
 <!---

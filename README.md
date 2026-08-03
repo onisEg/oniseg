@@ -23,8 +23,17 @@ Frontend developer and designer based in Barcelona. I build fast, clean web expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
-- **[Project name]** — one line about what it does
-- **[Project name]** — one line about what it does
+
+- **[Hotel Booking 🏨](https://booking-iota-one.vercel.app/)** — React + TypeScript booking platform with Stripe payments · [code](https://github.com/DevsquadEg/booking)
+- **[Project Management System](https://project-management-system-y5bw.vercel.app/)** — Full PMS built with React & TypeScript · [code](https://github.com/onisEg/project-management-system)
+- **[Food Recipe 🍇](https://food-app-six-sepia.vercel.app)** — Recipe app with React & TypeScript · [code](https://github.com/onisEg/food_app)
+- **[Book Shop 📚](https://bookshop-git-main-onisegs-projects.vercel.app/)** — E-commerce bookstore with dashboard · [code](https://github.com/onisEg/bookshop)
+- **[User Management System](https://user-management-system-orpin.vercel.app/)** — Full CRUD user management, React + TS · [code](https://github.com/onisEg/userManagementSystem)
+- **[RentCars 🚗](https://cars-mocha-phi.vercel.app/)** — Car rental app built with React · [code](https://github.com/onisEg/cars)
+- **[Contacts ➕](https://contacts-indol.vercel.app/)** — Contact manager, React + TypeScript · [code](https://github.com/onisEg/contacts)
+- **[eCommerce](https://oniseg.github.io/eCommerce/)** — Storefront with HTML/CSS/JS & Bootstrap · [code](https://github.com/onisEg/eCommerce)
+
+**[→ See full portfolio](https://resume-git-main-onisegs-projects.vercel.app/)**
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oniseg&layout=compact&locale=en" alt="Top languages" />
